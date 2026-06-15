@@ -1,4 +1,4 @@
-# Tekkit Warehouse
+# Tekkit Warehouse SCADA
 
 This repository contains a Lua-based [ComputerCraft](https://tekkitclassic.fandom.com/wiki/Category:ComputerCraft) application for [Tekkit Classic](https://tekkitclassic.fandom.com/wiki/The_Tekkit_Wiki), acting as a fully integrated warehouse management and export system. It monitors in-game resources using the [ccSensors](https://tekkitclassic.fandom.com/wiki/Category:CcSensors) API to track chest inventories, and controls [RedPower2](https://tekkitclassic.fandom.com/wiki/Category:RedPower2) hardware to automate item extraction.
 
